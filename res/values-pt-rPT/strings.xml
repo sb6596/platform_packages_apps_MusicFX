@@ -20,10 +20,10 @@
   <string name="no_effects">Efeitos não disponíveis.</string>
   <string name="main_toggle_effects_title">Efeitos áudio</string>
   <string name="eq_dialog_title">Equalizador</string>
-  <string name="headset_plug">Ligue os auscultadores para estes efeitos.</string>
+  <string name="headset_plug">Conecte fones de ouvido para ativar estes efeitos.</string>
   <string name="combo_device">Os efeitos são suportados apenas no modo de reprodução com auriculares.</string>
-  <string name="bass_boost_strength">Aumento de graves</string>
-  <string name="virtualizer_strength">Som surround</string>
+  <string name="bass_boost_strength">Realçar graves</string>
+  <string name="virtualizer_strength">Sistema surround</string>
   <string name="pr_title">Eco:</string>
   <string name="pr_summary">Efeitos ambientais de eco</string>
   <string name="pr_dialog_title">Predefinição de eco</string>
@@ -39,7 +39,15 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Amplificador FX</string>
-  <string name="user">Utilizador</string>
+  <string name="acoustic">Acústica</string>
+  <string name="bass_booster">Aumento dos Graves</string>
+  <string name="bass_reducer">Redução de Graves</string>
+  <string name="deep">Profundo</string>
+  <string name="small_speakers">Pequenos altifalantes</string>
+  <string name="treble_booster">Aumento dos Agudos</string>
+  <string name="treble_reducer">Redução dos Agudos</string>
+  <string name="vocal_booster">Ganho de Voz</string>
+  <string name="user">Usuário</string>
   <string name="none">Nenhum</string>
   <string name="smallroom">Quarto pequeno</string>
   <string name="mediumroom">Quarto médio</string>
@@ -50,7 +58,7 @@
   <string name="eq_custom">Para personalizar, seleccione \"Personalizar\"</string>
   <string name="power_on_prompt">Pressione o botão ligar/desligar na parte superior direita.</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
-  <string name="picker_title">Painel de efeitos musicais</string>
+  <string name="picker_title">Painel contr. efeitos sonoros</string>
   <string name="toggle_button_on">Ligado</string>
   <string name="toggle_button_off">Desligado</string>
   <string name="drawer_item_speaker">Altifalantes</string>
@@ -63,4 +71,5 @@
   <string name="stereowide_high">Alto</string>
   <string name="stereowide_none">Nenhum</string>
   <string name="sw_title">Amplificador stereo:</string>
+  <!-- Presets -->
 </resources>

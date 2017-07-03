@@ -39,6 +39,15 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Electrônica</string>
+  <string name="acoustic">Acústico</string>
+  <string name="bass_booster">Reforçar graves</string>
+  <string name="bass_reducer">Reduzir graves</string>
+  <string name="deep">Deep</string>
+  <string name="rhythm_and_blues">R&amp;B</string>
+  <string name="small_speakers">Alto-falantes pequenos</string>
+  <string name="treble_booster">Reforçar agudos</string>
+  <string name="treble_reducer">Reduzir agudos</string>
+  <string name="vocal_booster">Reforçar vocal</string>
   <string name="user">Personalizado</string>
   <string name="none">Sem efeito</string>
   <string name="smallroom">Sala pequena</string>
@@ -58,9 +67,17 @@
   <string name="drawer_item_bluetooth">Bluetooth</string>
   <string name="drawer_open">Abrir gaveta de navegação</string>
   <string name="drawer_close">Fechar gaveta de navegação</string>
+  <string name="current_output">Saída atual:</string>
   <string name="stereowide_light">Claro</string>
   <string name="stereowide_moderate">Moderado</string>
   <string name="stereowide_high">Alta</string>
   <string name="stereowide_none">Nenhum</string>
   <string name="sw_title">Amplificar Stereo:</string>
+  <!-- Presets -->
+  <string name="preset_menu">Perfis</string>
+  <string name="save_preset">Salvar perfil</string>
+  <string name="load_preset">Carregar perfil</string>
+  <string name="new_preset">Novo perfil...</string>
+  <string name="preset_save_toast">Perfil salvo</string>
+  <string name="preset_load_toast">Perfil carregado</string>
 </resources>

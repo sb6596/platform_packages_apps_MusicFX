@@ -39,6 +39,15 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">FX booster</string>
+  <string name="acoustic">Acústico</string>
+  <string name="bass_booster">Potenciador de bajos</string>
+  <string name="bass_reducer">Reductor de bajos</string>
+  <string name="deep">Grave</string>
+  <string name="rhythm_and_blues">R&amp;B</string>
+  <string name="small_speakers">Altavoces Pequeños</string>
+  <string name="treble_booster">Refuerzo de agudos</string>
+  <string name="treble_reducer">Reductor de agudos</string>
+  <string name="vocal_booster">Amplificar Voz</string>
   <string name="user">Usuario</string>
   <string name="none">Ninguno</string>
   <string name="smallroom">Cuarto Pequeño</string>
@@ -58,9 +67,11 @@
   <string name="drawer_item_bluetooth">Bluetooth</string>
   <string name="drawer_open">Abrir el cajón de navegación</string>
   <string name="drawer_close">Cerrar el cajón de navegación</string>
+  <string name="current_output">Salida actual:</string>
   <string name="stereowide_light">Suave</string>
   <string name="stereowide_moderate">Moderado</string>
   <string name="stereowide_high">Alto</string>
   <string name="stereowide_none">Ninguno</string>
   <string name="sw_title">Potenciador de estéreo:</string>
+  <!-- Presets -->
 </resources>
