@@ -31,10 +31,12 @@
   <string name="normal">Звичайний</string>
   <string name="ci_extreme">FX booster</string>
   <string name="user">Користувач</string>
+  <string name="none">Відсутній</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">Панель керув. музичн. ефектами</string>
   <string name="stereowide_moderate">Помірний</string>
   <string name="stereowide_high">Високий</string>
+  <string name="stereowide_none">Відсутній</string>
   <string name="sw_title">Розширення стерео:</string>
   <!-- Presets -->
 </resources>

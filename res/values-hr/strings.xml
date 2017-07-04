@@ -23,9 +23,12 @@
   <string name="bass_boost_strength">Pojačanje basova</string>
   <string name="virtualizer_strength">Okružujući zvuk</string>
   <string name="setup">Postavljanje</string>
+  <string name="normal">Normalno</string>
   <string name="ci_extreme">FX booster</string>
   <string name="user">Korisnik</string>
+  <string name="none">Ništa</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">Upravljačka ploča glazbenih efekata</string>
+  <string name="stereowide_none">Ništa</string>
   <!-- Presets -->
 </resources>

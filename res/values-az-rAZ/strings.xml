@@ -16,5 +16,10 @@
 -->
 <resources>
   <!-- ControlPanelMusic strings -->
+  <string name="normal">Normal</string>
+  <string name="user">Xüsusi</string>
+  <string name="none">Heç biri</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
+  <string name="stereowide_none">Heç biri</string>
+  <!-- Presets -->
 </resources>

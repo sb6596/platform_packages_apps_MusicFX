@@ -16,6 +16,8 @@
 -->
 <resources>
   <!-- ControlPanelMusic strings -->
+  <string name="none">Ingen</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
+  <string name="stereowide_none">Ingen</string>
   <!-- Presets -->
 </resources>

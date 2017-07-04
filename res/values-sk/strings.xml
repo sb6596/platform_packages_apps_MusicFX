@@ -23,9 +23,12 @@
   <string name="bass_boost_strength">Zosilnenie basov</string>
   <string name="virtualizer_strength">Priestorový zvuk</string>
   <string name="setup">Nastavenie</string>
+  <string name="normal">Normálne</string>
   <string name="ci_extreme">FX Booster</string>
   <string name="user">Vlastné</string>
+  <string name="none">Žiadne</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">Ovládací panel hudobných efektov</string>
+  <string name="stereowide_none">Žiadne</string>
   <!-- Presets -->
 </resources>

@@ -23,9 +23,12 @@
   <string name="bass_boost_strength">Tăng âm trầm</string>
   <string name="virtualizer_strength">Âm thanh vòm</string>
   <string name="setup">Thiết lập</string>
+  <string name="normal">Bình Thường</string>
   <string name="ci_extreme">Bộ tăng FX</string>
   <string name="user">Người dùng</string>
+  <string name="none">Không gì cả</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">Bảng đ.khiển hiệu ứng âm nhạc</string>
+  <string name="stereowide_none">Không gì cả</string>
   <!-- Presets -->
 </resources>

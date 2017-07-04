@@ -27,9 +27,12 @@
   <string name="pr_summary">التأثيرات الإضافية لصدى الغرفة</string>
   <string name="pr_dialog_title">الإعداد المسبق للصدى</string>
   <string name="setup">الإعداد</string>
+  <string name="normal">عادي</string>
   <string name="ci_extreme">FX Booster</string>
   <string name="user">المستخدم</string>
+  <string name="none">لاشيء</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">لوحة تحكم التأثيرات الموسيقية</string>
+  <string name="stereowide_none">لاشيء</string>
   <!-- Presets -->
 </resources>
