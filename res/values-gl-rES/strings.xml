@@ -16,6 +16,10 @@
 -->
 <resources>
   <!-- ControlPanelMusic strings -->
+  <string name="normal">Normal</string>
+  <string name="none">Ningún</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
+  <string name="drawer_item_bluetooth">Bluetooth</string>
+  <string name="stereowide_none">Ningún</string>
   <!-- Presets -->
 </resources>

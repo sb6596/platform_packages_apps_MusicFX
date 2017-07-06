@@ -74,4 +74,10 @@
   <string name="stereowide_none">Ninguno</string>
   <string name="sw_title">Potenciador de estéreo:</string>
   <!-- Presets -->
+  <string name="preset_menu">Ajustes</string>
+  <string name="save_preset">Guardar ajuste</string>
+  <string name="load_preset">Cargar ajuste</string>
+  <string name="new_preset">Nuevo ajuste...</string>
+  <string name="preset_save_toast">Ajuste guardado</string>
+  <string name="preset_load_toast">Ajuste cargado</string>
 </resources>

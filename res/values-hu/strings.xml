@@ -39,6 +39,15 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">FX booster</string>
+  <string name="acoustic">Akusztikus</string>
+  <string name="bass_booster">Basszus kiemelés</string>
+  <string name="bass_reducer">Basszus csökkentés</string>
+  <string name="deep">Mély</string>
+  <string name="rhythm_and_blues">R&amp;B</string>
+  <string name="small_speakers">Kis hangszórók</string>
+  <string name="treble_booster">Magas kiemelés</string>
+  <string name="treble_reducer">Magas csökkentés</string>
+  <string name="vocal_booster">Ének kiemelése</string>
   <string name="user">Egyéni</string>
   <string name="none">Nincs</string>
   <string name="smallroom">Kis szoba</string>
@@ -65,4 +74,10 @@
   <string name="stereowide_none">Nincs</string>
   <string name="sw_title">Sztereó widener</string>
   <!-- Presets -->
+  <string name="preset_menu">Sablonok</string>
+  <string name="save_preset">Sablon mentése</string>
+  <string name="load_preset">Sablon betöltése</string>
+  <string name="new_preset">Új sablon...</string>
+  <string name="preset_save_toast">Sablon mentve</string>
+  <string name="preset_load_toast">Sablon betöltve</string>
 </resources>

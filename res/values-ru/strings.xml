@@ -15,12 +15,13 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Эквалайзер</string>
+  <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Эффекты недоступны.</string>
   <string name="main_toggle_effects_title">Звуковые эффекты</string>
   <string name="eq_dialog_title">Эквалайзер</string>
   <string name="headset_plug">Чтобы услышать эти эффекты, подключите наушники.</string>
+  <string name="combo_device">Эффекты поддерживаются только при воспроизведении через наушники.</string>
   <string name="bass_boost_strength">Усиление басов</string>
   <string name="virtualizer_strength">Объемный звук</string>
   <string name="pr_title">Реверберация</string>
@@ -28,39 +29,55 @@
   <string name="pr_dialog_title">Шаблоны реверберации</string>
   <string name="setup">Настройка</string>
   <string name="normal">Нормальный</string>
-  <string name="classical">Классический</string>
-  <string name="dance">Танцевальный</string>
+  <string name="classical">Классическая музыка</string>
+  <string name="dance">Танцевальная музыка</string>
   <string name="flat">Плоский</string>
   <string name="folk">Фолк</string>
-  <string name="heavy_metal">Тяжелый металл</string>
+  <string name="heavy_metal">Хэви-метал</string>
   <string name="hip_hop">Хип-хоп</string>
   <string name="jazz">Джаз</string>
   <string name="pop">Поп</string>
   <string name="rock">Рок</string>
-  <string name="ci_extreme">Усилитель FX</string>
+  <string name="ci_extreme">Электронная музыка</string>
+  <string name="acoustic">Акустика</string>
+  <string name="bass_booster">Усиление басов</string>
+  <string name="bass_reducer">Ослабить НЧ</string>
+  <string name="deep">Глубина</string>
+  <string name="rhythm_and_blues">R&amp;B</string>
+  <string name="small_speakers">Маленькие динамики</string>
+  <string name="treble_booster">Усиление ВЧ</string>
+  <string name="treble_reducer">Ослабить ВЧ</string>
+  <string name="vocal_booster">Усиление вокала</string>
   <string name="user">Своя настройка</string>
   <string name="none">Нет</string>
   <string name="smallroom">Маленькая комната</string>
   <string name="mediumroom">Средняя комната</string>
   <string name="largeroom">Большая комната</string>
-  <string name="mediumhall">Средняя сцена</string>
-  <string name="largehall">Большая сцена</string>
-  <string name="plate">Пластина</string>
+  <string name="mediumhall">Средний зал</string>
+  <string name="largehall">Большой зал</string>
+  <string name="plate">Пластинка</string>
   <string name="eq_custom">Для настройки выберите \"Своя настройка\"</string>
   <string name="power_on_prompt">Нажмите кнопку включения в правом верхнем углу.</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">Управление звуковыми эффектами</string>
-  <string name="toggle_button_on">ВКЛ</string>
-  <string name="toggle_button_off">ВЫКЛ</string>
+  <string name="toggle_button_on">Вкл.</string>
+  <string name="toggle_button_off">Выкл.</string>
   <string name="drawer_item_speaker">Динамик</string>
   <string name="drawer_item_headset">Наушники</string>
   <string name="drawer_item_bluetooth">Bluetooth</string>
   <string name="drawer_open">Открыть панель навигации</string>
   <string name="drawer_close">Закрыть панель навигации</string>
+  <string name="current_output">Текущая мощность</string>
   <string name="stereowide_light">Легкий</string>
   <string name="stereowide_moderate">Умеренный</string>
   <string name="stereowide_high">Сильный</string>
   <string name="stereowide_none">Нет</string>
   <string name="sw_title">Стереоуширитель</string>
   <!-- Presets -->
+  <string name="preset_menu">Пресеты</string>
+  <string name="save_preset">Сохранить пресет</string>
+  <string name="load_preset">Загрузить пресет</string>
+  <string name="new_preset">Новый пресет...</string>
+  <string name="preset_save_toast">Пресет сохранен</string>
+  <string name="preset_load_toast">Пресет загружен</string>
 </resources>
