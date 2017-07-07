@@ -38,7 +38,7 @@
   <string name="jazz">Jazz</string>
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
-  <string name="ci_extreme">FX-Verstärker</string>
+  <string name="ci_extreme">Elektro</string>
   <string name="acoustic">Akustisch</string>
   <string name="bass_booster">Bassverstärker</string>
   <string name="bass_reducer">Weniger Bässe</string>
@@ -52,7 +52,7 @@
   <string name="none">Kein</string>
   <string name="smallroom">Kleiner Raum</string>
   <string name="mediumroom">Mittlerer Raum</string>
-  <string name="largeroom">Größer Raum</string>
+  <string name="largeroom">Großer Raum</string>
   <string name="mediumhall">Mittlere Halle</string>
   <string name="largehall">Große Halle</string>
   <string name="plate">Platte</string>
@@ -74,10 +74,10 @@
   <string name="stereowide_none">Kein</string>
   <string name="sw_title">Stereo Erweiterung:</string>
   <!-- Presets -->
-  <string name="preset_menu">Presets</string>
-  <string name="save_preset">Speichere Preset</string>
-  <string name="load_preset">Lade Preset</string>
-  <string name="new_preset">Neues Preset...</string>
-  <string name="preset_save_toast">Preset gespeichert</string>
-  <string name="preset_load_toast">Preset geladen</string>
+  <string name="preset_menu">Voreinstellungen</string>
+  <string name="save_preset">Voreinstellungen speichern</string>
+  <string name="load_preset">Voreinstellung laden</string>
+  <string name="new_preset">Neue Voreinstellung...</string>
+  <string name="preset_save_toast">Voreinstellung gespeichert</string>
+  <string name="preset_load_toast">Voreinstellung geladen</string>
 </resources>
