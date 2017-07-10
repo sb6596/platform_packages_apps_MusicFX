@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">MusicFX</string>
+  <string name="app_name">Эквалайзер</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Эффекты недоступны.</string>
   <string name="main_toggle_effects_title">Звуковые эффекты</string>
@@ -25,7 +25,7 @@
   <string name="bass_boost_strength">Усиление басов</string>
   <string name="virtualizer_strength">Объемный звук</string>
   <string name="pr_title">Реверберация</string>
-  <string name="pr_summary">Дополнительные эффекты реверберации помещения</string>
+  <string name="pr_summary">Дополнительные пространственные эффекты реверберации</string>
   <string name="pr_dialog_title">Шаблоны реверберации</string>
   <string name="setup">Настройка</string>
   <string name="normal">Нормальный</string>
@@ -67,7 +67,7 @@
   <string name="drawer_item_bluetooth">Bluetooth</string>
   <string name="drawer_open">Открыть панель навигации</string>
   <string name="drawer_close">Закрыть панель навигации</string>
-  <string name="current_output">Текущая мощность</string>
+  <string name="current_output">Текущий вывод:</string>
   <string name="stereowide_light">Легкий</string>
   <string name="stereowide_moderate">Умеренный</string>
   <string name="stereowide_high">Сильный</string>

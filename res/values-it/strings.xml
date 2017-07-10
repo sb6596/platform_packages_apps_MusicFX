@@ -60,13 +60,13 @@
   <string name="power_on_prompt">Premere il pulsante di accensione in alto a destra.</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">Pannello controllo effetti musicali</string>
-  <string name="toggle_button_on">On</string>
-  <string name="toggle_button_off">Off</string>
+  <string name="toggle_button_on">Acceso</string>
+  <string name="toggle_button_off">Spento</string>
   <string name="drawer_item_speaker">Altoparlante</string>
   <string name="drawer_item_headset">Cuffie</string>
   <string name="drawer_item_bluetooth">Bluetooth</string>
-  <string name="drawer_open">Apri il menu di navigazione</string>
-  <string name="drawer_close">Chiudi il menu di navigazione</string>
+  <string name="drawer_open">Apri il menù di navigazione</string>
+  <string name="drawer_close">Chiudi il menù di navigazione</string>
   <string name="current_output">Uscita audio in uso:</string>
   <string name="stereowide_light">Leggero</string>
   <string name="stereowide_moderate">Moderato</string>

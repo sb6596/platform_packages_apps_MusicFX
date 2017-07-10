@@ -28,7 +28,7 @@
   <string name="pr_summary">Efekty dozvuku v miestnosti</string>
   <string name="pr_dialog_title">Predvolba dozvuku</string>
   <string name="setup">Nastavenie</string>
-  <string name="normal">Normálne</string>
+  <string name="normal">Normálna</string>
   <string name="classical">Klasická hudba</string>
   <string name="dance">Tanec</string>
   <string name="flat">Ploché</string>
@@ -38,7 +38,7 @@
   <string name="jazz">Jazz</string>
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
-  <string name="ci_extreme">FX Booster</string>
+  <string name="ci_extreme">Elektronická hudba</string>
   <string name="acoustic">Akustická hudba</string>
   <string name="bass_booster">Zosilnenie basov</string>
   <string name="bass_reducer">Zoslabenie basov</string>
@@ -49,7 +49,7 @@
   <string name="treble_reducer">Zoslabenie výšok</string>
   <string name="vocal_booster">Zvýraznenie hlasu</string>
   <string name="user">Vlastné</string>
-  <string name="none">Žiadne</string>
+  <string name="none">Nič</string>
   <string name="smallroom">Malá miestnosť</string>
   <string name="mediumroom">Stredná miestnosť</string>
   <string name="largeroom">Veľká miestnosť</string>
@@ -71,7 +71,7 @@
   <string name="stereowide_light">Slabé</string>
   <string name="stereowide_moderate">Stredné</string>
   <string name="stereowide_high">Vysoké</string>
-  <string name="stereowide_none">Žiadne</string>
+  <string name="stereowide_none">Nič</string>
   <string name="sw_title">Stereo rozšírenie:</string>
   <!-- Presets -->
   <string name="preset_menu">Predvoľby</string>
