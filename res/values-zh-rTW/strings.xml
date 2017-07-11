@@ -19,7 +19,7 @@
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">無法使用音效</string>
   <string name="main_toggle_effects_title">音效</string>
-  <string name="eq_dialog_title">驍龍音效</string>
+  <string name="eq_dialog_title">等化器</string>
   <string name="headset_plug">插上耳機感受各種音效</string>
   <string name="combo_device">效果僅在使用耳機播放時支援</string>
   <string name="bass_boost_strength">低音加強</string>
