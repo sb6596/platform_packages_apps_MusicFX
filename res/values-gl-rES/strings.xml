@@ -18,6 +18,7 @@
   <!-- ControlPanelMusic strings -->
   <string name="main_toggle_effects_title">Efectos de son</string>
   <string name="normal">Normal</string>
+  <string name="user">Personalizado</string>
   <string name="none">Ningún</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="drawer_item_bluetooth">Bluetooth</string>

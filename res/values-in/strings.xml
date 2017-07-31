@@ -60,7 +60,7 @@
   <string name="power_on_prompt">Aktifkan equaliser dulu sebelum mengatur apapun</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">Panel kontrol efek musik</string>
-  <string name="toggle_button_on">Nyala</string>
+  <string name="toggle_button_on">Hidup</string>
   <string name="toggle_button_off">Mati</string>
   <string name="drawer_item_speaker">Speaker</string>
   <string name="drawer_item_headset">Headphone</string>
