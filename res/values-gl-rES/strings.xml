@@ -15,13 +15,69 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
+  <string name="no_effects">Efecton non dispoñíbels.</string>
   <string name="main_toggle_effects_title">Efectos de son</string>
+  <string name="eq_dialog_title">Mesturador</string>
+  <string name="headset_plug">Conecta os auriculares para estes efectos.</string>
+  <string name="combo_device">Efectos só soportados na reproducción con auriculares.</string>
+  <string name="bass_boost_strength">Potenciador dos baixos</string>
+  <string name="virtualizer_strength">Son envolvente</string>
+  <string name="pr_title">Reverberación:</string>
+  <string name="pr_summary">Efectos de reverberación de sala adicionais</string>
+  <string name="pr_dialog_title">Preaxustes de reverberación</string>
+  <string name="setup">Configuración</string>
   <string name="normal">Normal</string>
+  <string name="classical">Clásica</string>
+  <string name="dance">Dance</string>
+  <string name="flat">Plana</string>
+  <string name="folk">Folk</string>
+  <string name="heavy_metal">Heavy Metal</string>
+  <string name="hip_hop">Hip Hop</string>
+  <string name="jazz">Jazz</string>
+  <string name="pop">Pop</string>
+  <string name="rock">Rock</string>
+  <string name="ci_extreme">Electronic</string>
+  <string name="acoustic">Acústico</string>
+  <string name="bass_booster">Potenciador de baixos</string>
+  <string name="bass_reducer">Reductor de baixos</string>
+  <string name="deep">Profundo</string>
+  <string name="rhythm_and_blues">R&amp;B</string>
+  <string name="small_speakers">Altavoces Pequenos</string>
+  <string name="treble_booster">Potenciador de agudos</string>
+  <string name="treble_reducer">Reductor de agudos</string>
+  <string name="vocal_booster">Potenciador de voz</string>
   <string name="user">Personalizado</string>
   <string name="none">Ningún</string>
+  <string name="smallroom">Habitación pequena</string>
+  <string name="mediumroom">Habitación mediana</string>
+  <string name="largeroom">Habitación grande</string>
+  <string name="mediumhall">Salón Mediano</string>
+  <string name="largehall">Salón Largo</string>
+  <string name="plate">Plato</string>
+  <string name="eq_custom">Para personalizar, selecciona \"Personalizado\"</string>
+  <string name="power_on_prompt">Habilitar o mesturador antes de tentar configurar nada</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
+  <string name="picker_title">Efectos de música no panel de control</string>
+  <string name="toggle_button_on">Aceso</string>
+  <string name="toggle_button_off">Apagado</string>
+  <string name="drawer_item_speaker">Altavoz</string>
+  <string name="drawer_item_headset">Auriculares</string>
   <string name="drawer_item_bluetooth">Bluetooth</string>
+  <string name="drawer_open">Abrir o caixón de navegación</string>
+  <string name="drawer_close">Pechar o caixón de navegación</string>
+  <string name="current_output">Saída actual:</string>
+  <string name="stereowide_light">Suave</string>
+  <string name="stereowide_moderate">Moderada</string>
+  <string name="stereowide_high">Alta</string>
   <string name="stereowide_none">Ningún</string>
+  <string name="sw_title">Amplificador de estéreo:</string>
   <!-- Presets -->
+  <string name="preset_menu">Preaxustes</string>
+  <string name="save_preset">Gardar preaxuste</string>
+  <string name="load_preset">Cargar preaxuste</string>
+  <string name="new_preset">Novo preaxuste...</string>
+  <string name="preset_save_toast">Preaxuste gardado</string>
+  <string name="preset_load_toast">Preaxuste cargado</string>
 </resources>

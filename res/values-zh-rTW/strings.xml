@@ -56,8 +56,8 @@
   <string name="mediumhall">中廳</string>
   <string name="largehall">大廳</string>
   <string name="plate">金屬板</string>
-  <string name="eq_custom">切換到“自定義”以調整音效</string>
-  <string name="power_on_prompt">按右上角的開關打開音效</string>
+  <string name="eq_custom">若要自訂，選擇「自訂」</string>
+  <string name="power_on_prompt">按右上角的開關啟用音效</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">音樂效果控制台</string>
   <string name="toggle_button_on">開啟</string>
@@ -65,8 +65,8 @@
   <string name="drawer_item_speaker">揚聲器</string>
   <string name="drawer_item_headset">耳機</string>
   <string name="drawer_item_bluetooth">藍牙</string>
-  <string name="drawer_open">打開導航列</string>
-  <string name="drawer_close">關閉導航列</string>
+  <string name="drawer_open">開啟導航清單</string>
+  <string name="drawer_close">關閉導航清單</string>
   <string name="current_output">目前輸出</string>
   <string name="stereowide_light">輕量</string>
   <string name="stereowide_moderate">中等</string>

@@ -65,8 +65,8 @@
   <string name="drawer_item_speaker">揚聲器</string>
   <string name="drawer_item_headset">耳機</string>
   <string name="drawer_item_bluetooth">藍牙</string>
-  <string name="drawer_open">打開導航列</string>
-  <string name="drawer_close">關閉導航列</string>
+  <string name="drawer_open">開啟導航清單</string>
+  <string name="drawer_close">關閉導航清單</string>
   <string name="current_output">目前輸出</string>
   <string name="stereowide_light">輕量</string>
   <string name="stereowide_moderate">中等</string>
