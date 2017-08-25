@@ -16,6 +16,11 @@
 -->
 <resources>
   <!-- ControlPanelMusic strings -->
+  <string name="normal">Звычайны</string>
+  <string name="user">Наладзіць</string>
+  <string name="none">Няма</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
+  <string name="drawer_item_bluetooth">Bluetooth</string>
+  <string name="stereowide_none">Няма</string>
   <!-- Presets -->
 </resources>

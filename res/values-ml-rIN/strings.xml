@@ -17,5 +17,6 @@
 <resources>
   <!-- ControlPanelMusic strings -->
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
+  <string name="drawer_item_bluetooth">ബ്ലൂടൂത്ത്</string>
   <!-- Presets -->
 </resources>
