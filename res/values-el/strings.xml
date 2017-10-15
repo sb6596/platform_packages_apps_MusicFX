@@ -72,6 +72,7 @@
   <string name="stereowide_moderate">Μεσαίο</string>
   <string name="stereowide_high">Μεγάλο</string>
   <string name="stereowide_none">Καμιά</string>
+  <string name="sw_title">Stereo widener:</string>
   <!-- Presets -->
   <string name="preset_menu">Προεπιλογές</string>
   <string name="save_preset">Αποθήκευση ως προεπιλογής</string>

@@ -15,12 +15,69 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
+  <string name="no_effects">Эфекты не даступныя.</string>
+  <string name="main_toggle_effects_title">Аўдыя эфекты</string>
+  <string name="eq_dialog_title">Эквалайзер</string>
+  <string name="headset_plug">Падлучыце навушнікі для гэтых эфектаў.</string>
+  <string name="combo_device">Эфекты падтрымліваюцца толькі пры прайграванні праз навушнікі.</string>
+  <string name="bass_boost_strength">Узмацненне басоў</string>
+  <string name="virtualizer_strength">Аб\'ёмны гук</string>
+  <string name="pr_title">Рэверберацыя:</string>
+  <string name="pr_summary">Дадатковыя эфекты рэверберацыі памяшкання</string>
+  <string name="pr_dialog_title">Шаблоны рэверберацыі</string>
+  <string name="setup">Наладка</string>
   <string name="normal">Звычайны</string>
+  <string name="classical">Класіка</string>
+  <string name="dance">Танцавальная музыка</string>
+  <string name="flat">Пляскаты</string>
+  <string name="folk">Фолк</string>
+  <string name="heavy_metal">Хэві-метал</string>
+  <string name="hip_hop">Хіп-хоп</string>
+  <string name="jazz">Джаз</string>
+  <string name="pop">Поп</string>
+  <string name="rock">Рок</string>
+  <string name="ci_extreme">Электронная музыка</string>
+  <string name="acoustic">Акустыка</string>
+  <string name="bass_booster">Узмацненне басоў</string>
+  <string name="bass_reducer">Паслабленне басоў</string>
+  <string name="deep">Глыбіня</string>
+  <string name="rhythm_and_blues">R&amp;B</string>
+  <string name="small_speakers">Малыя дынамікі</string>
+  <string name="treble_booster">Узмацніць ВЧ</string>
+  <string name="treble_reducer">Аслабіць ВЧ</string>
+  <string name="vocal_booster">Узмацніць вакал</string>
   <string name="user">Наладзіць</string>
   <string name="none">Няма</string>
+  <string name="smallroom">Маленькі пакой</string>
+  <string name="mediumroom">Сярэдні пакой</string>
+  <string name="largeroom">Вялікі пакой</string>
+  <string name="mediumhall">Сярэдняя сцэна</string>
+  <string name="largehall">Вялікая сцэна</string>
+  <string name="plate">Грамафон</string>
+  <string name="eq_custom">Каб наладзіць, абярыце \"Уласныя налады\"</string>
+  <string name="power_on_prompt">Націсніце кнопку ўключэння ў правым верхнім куце</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
+  <string name="picker_title">Панэль кіравання музычных эфектаў</string>
+  <string name="toggle_button_on">Уключана</string>
+  <string name="toggle_button_off">Адключана</string>
+  <string name="drawer_item_speaker">Дынамік</string>
+  <string name="drawer_item_headset">Навушнікі</string>
   <string name="drawer_item_bluetooth">Bluetooth</string>
+  <string name="drawer_open">Адкрыць панэль навігацыі</string>
+  <string name="drawer_close">Зачыніць панэль навігацыі</string>
+  <string name="current_output">Бягучы выхад:</string>
+  <string name="stereowide_light">Светлая</string>
+  <string name="stereowide_moderate">Умераны</string>
+  <string name="stereowide_high">Высокі</string>
   <string name="stereowide_none">Няма</string>
+  <string name="sw_title">Стэрэа пашыральнік:</string>
   <!-- Presets -->
+  <string name="preset_menu">Прэсет</string>
+  <string name="save_preset">Захаваць прэсет</string>
+  <string name="load_preset">Загрузіць прэсет</string>
+  <string name="new_preset">Новы прэсет...</string>
+  <string name="preset_save_toast">Прэсет захаваны</string>
+  <string name="preset_load_toast">Прэсет загружаны</string>
 </resources>
