@@ -18,7 +18,7 @@
     package="com.android.musicfx" >
    <uses-sdk
         android:minSdkVersion="24"
-        android:targetSdkVersion="25" />
+        android:targetSdkVersion="27" />
 
     <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
